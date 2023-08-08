@@ -49,9 +49,6 @@ npm start <br>
 You can also use to test the database connection: npm run testdb <br>
 Use API call websites like Postman or Insomnia to get the database.<br>
 
-## Links
-**Walkthrough:** [Link to the walkthrough video!](https://drive.google.com/file/d/1L6DUAxuL5jYdbbqaRa2ghzSkC-OtfGF4/view) <br>
-**Github Repo:** [Link to Github repository!](https://github.com/Heaveness/E-commerce-back-end) <br>
 
 ## Credits
 **Websites:** W3schools, stackoverflow, & reddit <br>
@@ -59,5 +56,3 @@ Use API call websites like Postman or Insomnia to get the database.<br>
 **Assistant Instructor(s):** Shihan, Adam, Krishna, & Tareque Moatar <br>
 **Institution:** University of Toronto <br>
 
-## Questions
-If you have any questions regarding the repo, please contact me at vindictuslbp@gmail.com. Or check with me through my Github profile: [Heaveness](https://github.com/Heaveness).
