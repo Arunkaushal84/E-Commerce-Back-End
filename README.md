@@ -55,4 +55,3 @@ Use API call websites like Postman or Insomnia to get the database.<br>
 **Instructor(s):** Ali Maqsood, Daler Singh <br>
 **Assistant Instructor(s):** Shihan, Adam, Krishna, & Tareque Moatar <br>
 **Institution:** University of Toronto <br>
-
